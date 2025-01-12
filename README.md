@@ -28,8 +28,8 @@
 - Необходимо аналогично настроить отслеживание состояния интерфейсов Gi0/0 (для первой группы).
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
-![alt text](https://github.com/MrsPolitiko/1-01-sflt-hw/image.png)
-![схема](https://github.com/MrsPolitiko/1-01-sflt-hw/pkt/hsrp_advanced.pkt)
+- ![alt text](https://github.com/MrsPolitiko/1-01-sflt-hw/image.png)
+- ![схема](https://github.com/MrsPolitiko/1-01-sflt-hw/pkt/hsrp_advanced.pkt)
 ------
 
 
